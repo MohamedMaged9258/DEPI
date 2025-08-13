@@ -419,7 +419,7 @@ class HomeScreen extends StatelessWidget {
           ),
         ],
       ),
-      child: const Icon(Icons.add, color: Colors.white, size: 30),
+      child: const Icon(Icons.phone, color: Colors.white, size: 30),
     );
   }
 }
